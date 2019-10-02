@@ -1,0 +1,220 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-color: #3A3D45;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+
+.top {
+	background-color: #FFFFFF;
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #00000;
+	font-size: 35pt;
+
+	width: 800px;
+	height: 150px;
+	float: left;
+	text-indent: 30PX;
+	margin-left: -10px;
+	padding-left: 30px;
+	padding-bottom: -20px;
+	padding-top: 0px;
+	margin-top: 24px;
+}
+
+.top_nav {
+	  background-color: #FFFFFF;
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #000000;
+	font-size: 35pt;
+	text-align: center;
+
+	
+	
+	
+
+	width: 780px;
+	height: 150px;
+	float: left;
+	text-indent: 80px;
+	margin-left: 550px;
+	padding: 0px;
+
+
+	margin-top: -150px;
+	line-height: 100px;
+	
+	
+}
+
+.bottom {
+	background-color: #FFFFFF;
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #00000;
+	font-size: 35pt;
+
+	width: 1366px;
+	height: 50px;
+	float: left;
+	text-indent: 100PX;
+	margin-left: -10px;
+	padding-left: 30px;
+	padding-bottom: -20px;
+	padding-top: 0px;
+	margin-top: 213px;
+	margin-bottom: 30px;
+}
+
+.desktop{
+	width:1152px;
+	height: 1592px;
+}
+.wrap2{
+	text-decoration: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	display: block;
+	margin-left: -20px!important;
+	color:#FFFFFF;
+	float: right;
+	font-size: 20pt;
+	margin-right: 0px;
+	margin-top: -30px;
+}
+.wrap{
+	background-color: #115DA8;
+	border-style:solid;
+	border-color: #03396c;
+ 	border-width: 8px;
+	padding: 10px;
+	padding-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	width: 500px;	
+}
+a{
+	text-decoration: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	display: block;
+	margin-left: 10px;
+	color:#000000;
+	float: right;
+	font-size: 22px;
+	margin-right: 20px;
+	margin-top: 25px;
+}
+
+a:hover {
+	text-decoration: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	display: block;
+	margin-left: 10px;
+	color: #E19C17;
+	float: right;
+	font-size: 22px;
+	margin-right: 20px;
+	margin-top: 25px;
+}
+a:text{
+	text-decoration: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	display: block;
+	margin-left: 10px;
+	color:#0B3F5A;
+	float: left;
+	font-size: 14px;
+}
+
+
+
+
+.logo {
+	width: 533px;
+	height: 302px;
+	background: #FF0004;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:	300px;
+	
+  margin-bottom: 5px; /* or whatever */
+
+}
+.images{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-top: 0px;
+	
+}
+
+.images2{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-left: 990px;
+	margin-top: 0px;
+	
+}
+
+.images3{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-left: 1090px;
+	margin-top: 180px;
+	
+}
+
+.images4{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-left: 625px;
+	margin-top: 145px;
+	
+}
+
+.images5{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-left: 5px;
+	margin-top: -396px;
+	
+}
+
+
+.bottomtext{
+	background-color: aqua;
+}
+
+.caption{
+	margin-top:110px;
+	width: 100px;
+	float: left;
+	margin-left: 20px;
+	background-color: aqua;
+	color: yellow;
+	
+}
+
+@media only screen and (max-width:
+	700px) {
+		
+		
+		.right{
+			margin-left:0px;
+			background-color: #D5848E
+		
+		}

@@ -10,13 +10,14 @@ body{background-color: #202020;
 	font-style: BOLD;
 	color: #00000;
 	font-size: 35pt;
+	text-align: left;
 
 	width: 800px;
 	height: 150px;
 	float: left;
 	text-indent: 30PX;
 	margin-left: -10px;
-	padding-left: 30px;
+	padding-left: -200px;
 	padding-bottom: -20px;
 	padding-top: 0px;
 	margin-top: 24px;
@@ -38,6 +39,8 @@ body{background-color: #202020;
 	margin-top: -150px;
 	line-height: 100px;
 		
+
+
 }
 
 

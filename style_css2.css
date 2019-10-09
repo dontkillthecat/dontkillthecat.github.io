@@ -1,0 +1,163 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{background-color: #202020;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+
+.top {
+	background-color: #FFFFFF;
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #00000;
+	font-size: 35pt;
+
+	width: 800px;
+	height: 150px;
+	float: left;
+	text-indent: 30PX;
+	margin-left: -10px;
+	padding-left: 30px;
+	padding-bottom: -20px;
+	padding-top: 0px;
+	margin-top: 24px;
+}
+
+.top_nav {
+	  background-color: #FFFFFF;
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #000000;
+	font-size: 35pt;
+	text-align: center;
+	width: 816px;
+	height: 150px;
+	float: left;
+	text-indent: 80px;
+	margin-left: 573px;
+	padding: 0px;
+	margin-top: -150px;
+	line-height: 100px;
+		
+}
+
+.title {
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #FFFFFF;
+	font-size: 70pt;
+	text-align: center;
+	margin-top: 200px;
+}
+
+.title2 {
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #FFFFFF;
+	font-size: 25pt;
+	text-align: center;
+	margin-top: -10px;
+}
+
+.title3 {
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #FFFFFF;
+	font-size: 25pt;
+	text-align: center;
+	margin-top: -90px;
+}
+
+.title4 {
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #FFFFFF;
+	font-size: 25pt;
+	text-align: center;
+	margin-top: 150px;
+}
+
+.body {
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #FFFFFF;
+	font-size: 14pt;
+	text-align: left;
+	margin-left: 400px;
+	text-indent: 50px;
+	
+	margin-top: 60px;
+	width: 600px;
+	
+}
+
+.body2 {
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #FFFFFF;
+	font-size: 14pt;
+	text-align: left;
+	margin-left: 400px;
+	text-indent: 50px;
+	
+	margin-top: 40px;
+	width: 600px;
+	
+}
+
+
+.list {
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #FFFFFF;
+	font-size: 14pt;
+	text-align: center;
+	margin-left: 400px;
+	
+	margin-top: 60px;
+	width: 600px;
+	
+}
+
+.bottom {
+	background-color: #FFFFFF;
+	font-family: "Baskerville", Palatino Linotype, Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-style: BOLD;
+	color: #00000;
+	font-size: 35pt;
+
+	width: 1369px;
+	height: 50px;
+	float: left;
+	text-indent: 100PX;
+	margin-left: -10px;
+	padding-left: 30px;
+	padding-bottom: -20px;
+	padding-top: 0px;
+	margin-top: 145px;
+	margin-bottom: 30px;
+}
+
+a{
+	text-decoration: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	display: block;
+	margin-left: 10px;
+	color:#000000;
+	float: right;
+	font-size: 22px;
+	margin-right: 20px;
+	margin-top: 25px;
+}
+
+a:hover {
+	text-decoration: none;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	display: block;
+	margin-left: 10px;
+	color: #E19C17;
+	float: right;
+	font-size: 22px;
+	margin-right: 20px;
+	margin-top: 25px;
+}

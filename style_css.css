@@ -229,7 +229,7 @@ a:text{
 }
 
 @media only screen and (max-width:
-	300px) {
+	500px) {
 		.images{
 	background-image: url("box.jpg");
 	width: 100px;

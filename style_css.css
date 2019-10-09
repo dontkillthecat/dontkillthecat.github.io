@@ -240,18 +240,18 @@ a:text{
 	margin-left: -10px;
 	
 }
-<br>
+
 .images2{
 	background-image: url("box.jpg");
 	width: 100px;
 	height: 100px;
 	background-color: #FF0004;
 	float: left;
-	margin-left: 999px;
-	margin-top: 0px;
+	margin-left: -10px;px;
+	margin-top: 10px;
 	
 }
-		<br>
+		
 
 .images3{
 	background-image: url("box.jpg");
@@ -259,30 +259,30 @@ a:text{
 	height: 100px;
 	background-color: #FF0004;
 	float: left;
-	margin-left: 1090px;
-	margin-top: 180px;
+	margin-left: -10px;
+	margin-top: 20px;
 	
 }
-<br>
+
 .images4{
 	background-image: url("box.jpg");
 	width: 100px;
 	height: 100px;
 	background-color: #FF0004;
 	float: left;
-	margin-left: 569px;
-	margin-top: 130px;
+	margin-left: -10px;
+	margin-top: 30px;
 	
 }
-<br>
+
 .images5{
 	background-image: url("box.jpg");
 	width: 100px;
 	height: 100px;
 	background-color: #FF0004;
 	float: left;
-	margin-left: -680px;
-	margin-top: 129px;
+	margin-left: -10px;
+	margin-top: 40px;
 	
 }
 

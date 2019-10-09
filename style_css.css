@@ -229,11 +229,61 @@ a:text{
 }
 
 @media only screen and (max-width:
-	700px) {
-		
-		
-		.right{
-			margin-left:0px;
-			background-color: #D5848E
+	300px) {
+		.images{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-top: 0px;
+	margin-left: -10px;
+	
+}
+<br>
+.images2{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-left: 999px;
+	margin-top: 0px;
+	
+}
+
+.images3{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-left: 1090px;
+	margin-top: 180px;
+	
+}
+
+.images4{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-left: 569px;
+	margin-top: 130px;
+	
+}
+
+.images5{
+	background-image: url("box.jpg");
+	width: 100px;
+	height: 100px;
+	background-color: #FF0004;
+	float: left;
+	margin-left: -680px;
+	margin-top: 129px;
+	
+}
+
 		
 		}
